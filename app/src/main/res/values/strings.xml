@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Викторина по известным местам</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="button_numb_qwest" parent="TextAppearance.AppCompat.Button">
+
+        <item name="android:background">@color/black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="button_numb_otvet" parent="TextAppearance.AppCompat.Button">
+
+        <item name="android:background">#00FFFFFF</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <string name="text_num_fragm1">Вопрос 1</string>
+    <string name="text_num_fragm2">Вопрос 2</string>
+    <string name="text_num_fragm3">Вопрос 3</string>
+    <string name="text_num_fragm4">Вопрос 4</string>
+    <string name="text_num_fragm5">Вопрос 5</string>
+    <string name="text_num_fragm6">Вопрос 6</string>
+    <string name="text_num_fragm7">Вопрос 7</string>
+    <string name="text_num_fragm8">Вопрос 8</string>
+    <string name="text_num_fragm9">Вопрос 9</string>
+    <string name="text_num_fragm10">Вопрос 10</string>
+
+    <string name="znak">%</string>
+    <string name="time">Время:</string>
+    <string name="res">Ваш результат</string>
+    <string name="text_ot">Ответ #1</string>
+    <string name="text_vb">ВЫБРАТЬ</string>
+    <string name="text_prop">ПРОПУСТИТЬ ВОПРОС</string>
+    <string name="res_o1">Правильных</string>
+    <string name="res_o2">Неправильных</string>
+    <string name="res_o3">Пропущеных</string>
+    <string name="btn_start">Начать тест</string>
+    <string name="btn_st">Статистика</string>
+    <string name="add_res">Сохранить результат</string>
+    <string name="stat_res">Результаты</string>
+    <string name="user">Пользователь:</string>
+    <string name="Result_user">Результат:</string>
+    <string name="otv">Ответ</string>
+
+
+</resources>

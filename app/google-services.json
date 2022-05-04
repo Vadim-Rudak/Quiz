@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22138962092",
+    "project_id": "qwez-96c2f",
+    "storage_bucket": "qwez-96c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22138962092:android:6e404e77f2dc29576edf09",
+        "android_client_info": {
+          "package_name": "com.rv.qwez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22138962092-vfbl0cgvqlhqvd6jjsibipb310chj18n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fnD2NtuEztB-JZ48fKyMGTF92FluZxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22138962092-vfbl0cgvqlhqvd6jjsibipb310chj18n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
